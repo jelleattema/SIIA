@@ -1,21 +1,21 @@
 [
   {
     "name": "Babel",
-    "ring": "Doe",
+    "ring": "Doen",
     "quadrant": "Doelen en strategie",
     "isNew": "TRUE",
     "description": "test"
   },
   {
     "name": "Apache Kafka",
-    "ring": "Probeer",
+    "ring": "Proberen",
     "quadrant": "Duurzame IT",
     "isNew": "FALSE",
     "description": "test"
   },
   {
     "name": "Android-x86",
-    "ring": "Onderzoek",
+    "ring": "Onderzoeken",
     "quadrant": "Duurzaam met IT",
     "isNew": "TRUE",
     "description": "test"
