@@ -13,18 +13,32 @@
     "isNew": "FALSE",
     "description": "test"
   },
-  {
-    "name": "Android-x86",
-    "ring": "Onderzoeken",
-    "quadrant": "Duurzaam met IT",
-    "isNew": "TRUE",
-    "description": "test"
+ {
+    "name": "Recyclen computers, telefoons en tablets",
+    "ring": "Doen",
+    "quadrant": "Duurzame IT",
+    "isNew": "FALSE",
+    "description": "ECP koopt alleen nog apparatuur die kan worden gerepareerd en wordt ingenomen voor recyclen"
   },
   {
-    "name": "GrapCloud lift and shifthQL",
-    "ring": "Stop",
+    "name": "Hergebruik, upgraden en recyclen IT",
+    "ring": "Doen",
+    "quadrant": "Duurzaam met IT",
+    "isNew": "TRUE",
+    "description": "ECP houdt een overzicht bij van apparatuur, welke over is, en maakt afspraken met leveranciers over reparatie en upgrade"
+  },
+  {
+    "name": "ECP sluit raamcontract met energieleveranciers over goedkoop groen energie en gas voor medewerkers",
+    "ring": "Onderzoeken",
+    "quadrant": "Duurzame samenleving",
+    "isNew": "TRUE",
+    "description": "ECP houdt een overzicht bij van apparatuur, welke over is, en maakt afspraken met leveranciers over reparatie en upgrade"
+  },
+  {
+    "name": "ECP steunt vrijwilligerswerk medewerkers en springt bij met administratieve capaciteit",
+    "ring": "Proberen",
     "quadrant": "Duurzame samenleving",
     "isNew": "FALSE",
-    "description": "test"
+    "description": "ECP stelt collega's in staat om bij te dragen aan maatschappelijke organisaties en stelt secretariaats-capaciteit ter beschikking"
   }
 ]
