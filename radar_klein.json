@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Babel",
+    "ring": "doe",
+    "quadrant": "doelen en strategie",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "Apache Kafka",
+    "ring": "probeer",
+    "quadrant": "duurzame IT",
+    "isNew": "FALSE",
+    "description": "test"
+  },
+  {
+    "name": "Android-x86",
+    "ring": "onderzoek",
+    "quadrant": "duurzaam met IT",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "GrapCloud lift and shifthQL",
+    "ring": "stop",
+    "quadrant": "duurzame samenleving",
+    "isNew": "FALSE",
+    "description": "test"
+  }
+]
