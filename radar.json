@@ -1,10 +1,17 @@
 [
   {
-    "name": "Babel",
-    "ring": "Doen",
+    "name": "Consultatie deelnemers ECP naar rol ECP duurzaamheid",
+    "ring": "Onderzoeken",
     "quadrant": "Doelen en strategie",
     "isNew": "TRUE",
-    "description": "test"
+    "description": "ECP is betrokken bij tal van projecten die duurzaamheid raken: inclusie, veiligheid, governance van data, duurzame IT."
+  },
+  {
+    "name": "Consultatie deelnemers ECP naar rol ECP duurzaamheid",
+    "ring": "Onderzoeken",
+    "quadrant": "Doelen en strategie",
+    "isNew": "TRUE",
+    "description": "ECP is betrokken bij tal van projecten die duurzaamheid raken: inclusie, veiligheid, governance van data, duurzame IT."
   },
   {
     "name": "Apache Kafka",
